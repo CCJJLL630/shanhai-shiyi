@@ -14,7 +14,7 @@
 
 ## 下载与开始游玩
 
-前往 [v1.0.3 下载页](https://github.com/CCJJLL630/shanhai-shiyi/releases/tag/v1.0.3)，下载 **山海拾遗-1.0.3-win-x64.zip**。页面上的 `Source code` 压缩包仅包含本仓库的说明和截图，不能运行游戏。
+前往 [v1.0.3 下载页](https://github.com/CCJJLL630/shanhai-shiyi/releases/tag/v1.0.3)，下载 **shanhai-shiyi-1.0.3-win-x64.zip**。页面上的 `Source code` 压缩包仅包含本仓库的说明和截图，不能运行游戏。
 
 1. 将 ZIP **完整解压**到普通文件夹。
 2. 双击 **山海拾遗.exe**。请保留文件夹内的全部运行文件。
